@@ -17,3 +17,6 @@ demo
 ### Backoffice
 ### Mapa
 ### Home
+
+## Referencia y definiciones
+### Glosario
